@@ -24,7 +24,7 @@ body {
     animation: rotate 0.56s infinite linear;
     width:50px;
     height:50px;
-    border:12px solid rgb(133, 120, 97); /*GOLDEN SANDLEWOOD*/
+    border:12px solid rgb(56, 63, 51); /*GOLDEN SANDLEWOOD*/
     border-bottom:12px solid #fff;
     border-radius:50%;
     margin:0;
@@ -38,7 +38,7 @@ header {
     padding:6vh 4vw;
     position:fixed;
     font-weight:bold;
-    background:transparent;
+    background:rgb(191, 180, 160); /* HEADER BACKGROUND COLOR 2 */ 
     color:rgb(16, 18, 17); /*HEADER TEXT*/
     transition:0.4s ease-in-out;
     z-index:2;
@@ -128,7 +128,7 @@ header table {
     text-align:left;
 }
 .social {
-    color:rgb(231, 212, 187); /* SOC. MEDIA - ALMOND */
+    color:rgb(56, 63, 51); /* SOC. MEDIA - ALMOND */
     font-size:23px;
     padding:12px 17px;
     border-radius:50%;
@@ -203,7 +203,7 @@ header table {
 }
 #bio h1 {
     padding:5px 0px;
-    border-bottom:4px solid rgb(168, 180, 158);
+    border-bottom:4px solid rgb(56, 63, 51);
     width:8%;
 }
 #contact {
@@ -212,7 +212,7 @@ header table {
 }
 #contact h1 {
     padding:5px 0px;
-    border-bottom:4px solid rgb(168, 180, 158);
+    border-bottom:4px solid rgb(56, 63, 51);
     width:10%;
 }
 #contact table {
@@ -238,7 +238,7 @@ header table {
     margin:20px 1%;
     background:transparent;
     border:0px;
-    border-bottom:3px solid rgb(168, 180, 158);
+    border-bottom:3px solid rgb(56, 63, 51);
     padding:8px 10px;
     font-family: 'Poppins', sans-serif;
     font-size:18px;
@@ -251,7 +251,7 @@ header table {
     margin:20px 1%;
     padding:8px 10px;
     border:0px;
-    border-bottom:3px solid rgb(168, 180, 158);
+    border-bottom:3px solid rgb(56, 63, 51);
     padding:8px 10px;
     font-family: 'Poppins', sans-serif;
     font-size:18px;
@@ -263,11 +263,11 @@ header table {
 }
 #contact form input:focus {
     outline:none;
-    border-bottom:3px solid rgb(168, 180, 158);
+    border-bottom:3px solid rgb(56, 63, 51);
 }
 #contact form textarea:focus {
     outline:none;
-    border-bottom:3px solid rgb(168, 180, 158);
+    border-bottom:3px solid rgb(56, 63, 51);
 }
 #address {
     position:relative;
@@ -281,7 +281,7 @@ header table {
     font-weight:bold;
 }
 #footer a {
-    color:rgb(168, 180, 158);
+    color:rgb(56, 63, 51);
     text-decoration:none;
 }
 ::placeholder {
