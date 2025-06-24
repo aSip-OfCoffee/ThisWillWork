@@ -390,3 +390,36 @@ button:focus {
         color:#000;
     }
 }
+/* Your existing CSS rules */
+@media (max-width: 1000px){
+    /* ... some existing rules ... */
+    #navigation a {
+        color:#000;
+    } /* This is the last existing closing bracket */
+} /* This is the last existing closing bracket for the media query */
+
+/* >>> PASTE YOUR NEW CSS HERE, ON A NEW LINE <<< */
+
+/* New CSS rules for PDF Preview */
+.pdf-preview-wrapper {
+    width: 100%;
+    position: relative; 
+    margin: 4.5% 0px; 
+    text-align: center; 
+    break-inside: avoid; 
+    -webkit-column-break-inside: avoid; 
+    page-break-inside: avoid; 
+}
+
+.pdf-thumbnail {
+    width: 100%;
+    height: auto;
+    display: block;
+    border: 1px solid #ccc; 
+    box-shadow: 0px 5px 15px rgba(0,0,0,0.1); 
+}
+
+.view-pdf-button {
+    margin-top: 15px; 
+    display: inline-block; 
+}
