@@ -83,7 +83,7 @@ header table {
 }
 #logo {
     font-size:24px;
-    color:rgb(168, 180, 158);
+    color:rgb(16, 18, 17); /*LOGO - BLACK*/
 }
 #navigation {
     text-align:right;
@@ -345,7 +345,7 @@ button:focus {
     width:60%;
     margin:4vh auto;
     box-shadow:0px 10px 20px rgb(129, 140, 120);
-    background:rgb(129,140,120);
+    background:rgb(133, 120, 97); /* BUTTON BACKGROUND - BROWN */
     color:#fff;
     }
     .btn_one:hover {
@@ -376,7 +376,7 @@ button:focus {
     }
     header {
         width:96vw;
-        background:#fff;
+        background:rgb(230, 221, 209); /* HEADER BACKGROUND - ALMOND */
         padding:4vh 2vw;
         position:absolute;
     }
