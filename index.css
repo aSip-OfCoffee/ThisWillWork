@@ -24,7 +24,7 @@ body {
     animation: rotate 0.56s infinite linear;
     width:50px;
     height:50px;
-    border:12px solid rgb(168, 180, 158);
+    border:12px solid rgb(133, 120, 97); /*GOLDEN SANDLEWOOD*/
     border-bottom:12px solid #fff;
     border-radius:50%;
     margin:0;
