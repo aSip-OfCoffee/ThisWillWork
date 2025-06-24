@@ -39,7 +39,7 @@ header {
     position:fixed;
     font-weight:bold;
     background:transparent;
-    color:#d5ccab;
+    color:rgb(16, 18, 17); /*HEADER TEXT*/
     transition:0.4s ease-in-out;
     z-index:2;
 }
