@@ -54,7 +54,7 @@ header table {
 #magnify {
     width:100vw;
     height:100vh;
-    background:rgba(0, 0, 0, 0.92);
+    background:rgb(215, 207, 191);
     position:fixed;
     z-index:4;
     display:none;
