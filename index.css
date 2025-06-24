@@ -188,7 +188,7 @@ header table {
 }
 #photos img {
     width:100%;
-    height:auto;
+    height:100%;
     margin:4.5% 0px;
     transition:0.4s ease-in-out;
 }
