@@ -7,7 +7,7 @@ body {
     max-width:100vw;
     overflow-x:hidden;
     scroll-behavior: smooth;
-    background:rgb(191, 180, 160) /*BODY BACKGROUND*/
+    background:rgb(231, 228, 219) /*BODY BACKGROUND*/
 }
 #loading {
     width: 100vw;
@@ -376,7 +376,7 @@ button:focus {
     }
     header {
         width:96vw;
-        background:rgb(230, 221, 209); /* HEADER BACKGROUND - ALMOND */
+        background:rgb(191, 180, 160); /* HEADER BACKGROUND - ALMOND */
         padding:4vh 2vw;
         position:absolute;
     }
