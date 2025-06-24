@@ -23,7 +23,7 @@ body {
     animation: rotate 0.56s infinite linear;
     width:50px;
     height:50px;
-    border:12px solid rgb(30, 57, 75);
+    border:12px solid rgb(78, 99, 94);
     border-bottom:12px solid #fff;
     border-radius:50%;
     margin:0;
@@ -54,7 +54,7 @@ header table {
 #magnify {
     width:100vw;
     height:100vh;
-    background:rgb(30, 57, 75);
+    background:rgb(78, 99, 94);
     position:fixed;
     z-index:4;
     display:none;
@@ -70,7 +70,7 @@ header table {
     transition:0.4s ease-in-out;
 }
 #magnify h1:hover{
-    color:rgb(30, 57, 75);
+    color:rgb(78, 99, 94);
     cursor:pointer;
 }
 #img_here {
@@ -82,7 +82,7 @@ header table {
 }
 #logo {
     font-size:24px;
-    color:rgb(30, 57, 75);
+    color:rgb(78, 99, 94);
 }
 #navigation {
     text-align:right;
@@ -127,7 +127,7 @@ header table {
     text-align:left;
 }
 .social {
-    color:rgb(30, 57, 75);
+    color:rgb(78, 99, 94);
     font-size:23px;
     padding:12px 17px;
     border-radius:50%;
@@ -139,15 +139,15 @@ header table {
 .social:hover { 
     cursor: pointer;
     color:#fff;
-    background:rgb(255, 44, 90);
+    background:rgb(78, 99, 94);
     box-shadow:0px 10px 30px rgba(255, 66, 107,0.8);
 }
 .btn_one {
     font-size:18px;
     font-family: 'Poppins', sans-serif;
-    color:rgb(255, 44, 90);
+    color:rgb(78, 99, 94);
     background:#fff;
-    border:3px solid rgb(255, 44, 90);
+    border:3px solid rgb(78, 99, 94);
     padding:8px 40px;
     width:35%;
     border-radius:80px;
@@ -159,7 +159,7 @@ header table {
     box-shadow:0px 10px 30px rgba(255, 44, 90, 0.8);
     cursor:pointer;
     color:#fff;
-    background:rgb(255, 44, 90);
+    background:rgb(78, 99, 94);
 }
 #rightImage {
     width:100%;
@@ -175,7 +175,7 @@ header table {
 }
 #work h1 {
     padding:5px 0px;
-    border-bottom:4px solid rgb(255, 44, 90);
+    border-bottom:4px solid rgb(78, 99, 94);
     width:6%;
 }
 #photos {
@@ -202,7 +202,7 @@ header table {
 }
 #bio h1 {
     padding:5px 0px;
-    border-bottom:4px solid rgb(255, 44, 90);
+    border-bottom:4px solid rgb(78, 99, 94);
     width:8%;
 }
 #contact {
@@ -211,7 +211,7 @@ header table {
 }
 #contact h1 {
     padding:5px 0px;
-    border-bottom:4px solid rgb(255, 44, 90);
+    border-bottom:4px solid rgb(78, 99, 94);
     width:10%;
 }
 #contact table {
@@ -280,7 +280,7 @@ header table {
     font-weight:bold;
 }
 #footer a {
-    color:rgb(255, 44, 90);
+    color:rgb(78, 99, 94);
     text-decoration:none;
 }
 ::placeholder {
@@ -344,7 +344,7 @@ button:focus {
     width:60%;
     margin:4vh auto;
     box-shadow:0px 10px 20px rgba(255, 44, 90, 0.8);
-    background:rgb(255, 44, 90);
+    background:rgb(129,140,120);
     color:#fff;
     }
     .btn_one:hover {
